@@ -13,7 +13,7 @@ namespace Countries
         public string subregion { get; set; } = null!;
         public List<double> latlng { get; set; } = null!;
         public double area { get; set; }
-        public int population { get; set; } = 0!;
+        public int population { get; set; }
     }
 
     internal class CountryName
