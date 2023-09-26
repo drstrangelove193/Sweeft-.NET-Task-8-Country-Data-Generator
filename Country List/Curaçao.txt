@@ -1,0 +1,6 @@
+Name: Curaçao
+Region: Americas
+Subregion: Caribbean
+Latlng: 12.116667, -68.933333
+Area: 444
+Population: 155014

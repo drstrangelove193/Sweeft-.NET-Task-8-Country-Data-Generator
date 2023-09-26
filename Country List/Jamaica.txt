@@ -1,0 +1,6 @@
+Name: Jamaica
+Region: Americas
+Subregion: Caribbean
+Latlng: 18.25, -77.5
+Area: 10991
+Population: 2961161

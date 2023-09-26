@@ -1,0 +1,6 @@
+Name: Czechia
+Region: Europe
+Subregion: Central Europe
+Latlng: 49.75, 15.5
+Area: 78865
+Population: 10698896

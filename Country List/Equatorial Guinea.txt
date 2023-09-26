@@ -1,0 +1,6 @@
+Name: Equatorial Guinea
+Region: Africa
+Subregion: Middle Africa
+Latlng: 2, 10
+Area: 28051
+Population: 1402985

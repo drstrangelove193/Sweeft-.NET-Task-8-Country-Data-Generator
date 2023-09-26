@@ -1,0 +1,6 @@
+Name: Northern Mariana Islands
+Region: Oceania
+Subregion: Micronesia
+Latlng: 15.2, 145.75
+Area: 464
+Population: 57557

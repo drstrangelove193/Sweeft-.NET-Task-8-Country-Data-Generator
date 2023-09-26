@@ -1,0 +1,6 @@
+Name: Ethiopia
+Region: Africa
+Subregion: Eastern Africa
+Latlng: 8, 38
+Area: 1104300
+Population: 114963583

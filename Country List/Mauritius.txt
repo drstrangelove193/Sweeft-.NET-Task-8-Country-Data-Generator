@@ -1,0 +1,6 @@
+Name: Mauritius
+Region: Africa
+Subregion: Eastern Africa
+Latlng: -20.28333333, 57.55
+Area: 2040
+Population: 1265740

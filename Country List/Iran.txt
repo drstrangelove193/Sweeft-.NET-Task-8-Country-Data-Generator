@@ -1,0 +1,6 @@
+Name: Iran
+Region: Asia
+Subregion: Southern Asia
+Latlng: 32, 53
+Area: 1648195
+Population: 83992953

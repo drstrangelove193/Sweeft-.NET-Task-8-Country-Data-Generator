@@ -1,0 +1,6 @@
+Name: Bolivia
+Region: Americas
+Subregion: South America
+Latlng: -17, -65
+Area: 1098581
+Population: 11673029

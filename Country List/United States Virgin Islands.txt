@@ -1,0 +1,6 @@
+Name: United States Virgin Islands
+Region: Americas
+Subregion: Caribbean
+Latlng: 18.35, -64.933333
+Area: 347
+Population: 106290

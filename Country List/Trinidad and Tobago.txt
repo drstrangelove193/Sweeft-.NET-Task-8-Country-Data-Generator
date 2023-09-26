@@ -1,0 +1,6 @@
+Name: Trinidad and Tobago
+Region: Americas
+Subregion: Caribbean
+Latlng: 10.6918, -61.2225
+Area: 5130
+Population: 1399491

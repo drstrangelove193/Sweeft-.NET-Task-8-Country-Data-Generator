@@ -1,0 +1,6 @@
+Name: Kyrgyzstan
+Region: Asia
+Subregion: Central Asia
+Latlng: 41, 75
+Area: 199951
+Population: 6591600

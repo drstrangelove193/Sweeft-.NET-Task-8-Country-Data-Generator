@@ -1,0 +1,6 @@
+Name: Haiti
+Region: Americas
+Subregion: Caribbean
+Latlng: 19, -72.41666666
+Area: 27750
+Population: 11402533

@@ -1,0 +1,6 @@
+Name: Armenia
+Region: Asia
+Subregion: Western Asia
+Latlng: 40, 45
+Area: 29743
+Population: 2963234

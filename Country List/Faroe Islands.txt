@@ -1,0 +1,6 @@
+Name: Faroe Islands
+Region: Europe
+Subregion: Northern Europe
+Latlng: 62, -7
+Area: 1393
+Population: 48865

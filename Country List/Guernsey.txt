@@ -1,0 +1,6 @@
+Name: Guernsey
+Region: Europe
+Subregion: Northern Europe
+Latlng: 49.46666666, -2.58333333
+Area: 78
+Population: 62999

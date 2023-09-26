@@ -1,0 +1,6 @@
+Name: Tajikistan
+Region: Asia
+Subregion: Central Asia
+Latlng: 39, 71
+Area: 143100
+Population: 9537642

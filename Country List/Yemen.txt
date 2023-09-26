@@ -1,0 +1,6 @@
+Name: Yemen
+Region: Asia
+Subregion: Western Asia
+Latlng: 15, 48
+Area: 527968
+Population: 29825968

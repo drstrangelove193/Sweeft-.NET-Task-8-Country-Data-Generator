@@ -1,0 +1,6 @@
+Name: Lebanon
+Region: Asia
+Subregion: Western Asia
+Latlng: 33.83333333, 35.83333333
+Area: 10452
+Population: 6825442

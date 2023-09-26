@@ -1,0 +1,6 @@
+Name: Syria
+Region: Asia
+Subregion: Western Asia
+Latlng: 35, 38
+Area: 185180
+Population: 17500657

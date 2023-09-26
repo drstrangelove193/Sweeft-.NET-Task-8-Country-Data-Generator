@@ -1,0 +1,6 @@
+Name: Central African Republic
+Region: Africa
+Subregion: Middle Africa
+Latlng: 7, 21
+Area: 622984
+Population: 4829764

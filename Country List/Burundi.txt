@@ -1,0 +1,6 @@
+Name: Burundi
+Region: Africa
+Subregion: Eastern Africa
+Latlng: -3.5, 30
+Area: 27834
+Population: 11890781

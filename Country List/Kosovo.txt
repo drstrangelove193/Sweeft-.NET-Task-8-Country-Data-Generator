@@ -1,0 +1,6 @@
+Name: Kosovo
+Region: Europe
+Subregion: Southeast Europe
+Latlng: 42.666667, 21.166667
+Area: 10908
+Population: 1775378

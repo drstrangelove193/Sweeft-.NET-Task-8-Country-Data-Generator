@@ -1,0 +1,6 @@
+Name: Puerto Rico
+Region: Americas
+Subregion: Caribbean
+Latlng: 18.25, -66.5
+Area: 8870
+Population: 3194034

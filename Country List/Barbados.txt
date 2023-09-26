@@ -1,0 +1,6 @@
+Name: Barbados
+Region: Americas
+Subregion: Caribbean
+Latlng: 13.16666666, -59.53333333
+Area: 430
+Population: 287371

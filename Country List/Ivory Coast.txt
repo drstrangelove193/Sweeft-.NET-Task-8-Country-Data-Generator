@@ -1,0 +1,6 @@
+Name: Ivory Coast
+Region: Africa
+Subregion: Western Africa
+Latlng: 8, -5
+Area: 322463
+Population: 26378275

@@ -1,0 +1,6 @@
+Name: Greece
+Region: Europe
+Subregion: Southern Europe
+Latlng: 39, 22
+Area: 131990
+Population: 10715549

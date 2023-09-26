@@ -1,0 +1,6 @@
+Name: Latvia
+Region: Europe
+Subregion: Northern Europe
+Latlng: 57, 25
+Area: 64559
+Population: 1901548

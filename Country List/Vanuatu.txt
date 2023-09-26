@@ -1,0 +1,6 @@
+Name: Vanuatu
+Region: Oceania
+Subregion: Melanesia
+Latlng: -16, 167
+Area: 12189
+Population: 307150

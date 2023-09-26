@@ -1,0 +1,6 @@
+Name: Norway
+Region: Europe
+Subregion: Northern Europe
+Latlng: 62, 10
+Area: 323802
+Population: 5379475

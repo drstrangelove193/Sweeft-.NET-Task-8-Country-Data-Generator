@@ -1,0 +1,6 @@
+Name: Svalbard and Jan Mayen
+Region: Europe
+Subregion: Northern Europe
+Latlng: 78, 20
+Area: -1
+Population: 2562

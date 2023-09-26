@@ -1,0 +1,6 @@
+Name: Liberia
+Region: Africa
+Subregion: Western Africa
+Latlng: 6.5, -9.5
+Area: 111369
+Population: 5057677

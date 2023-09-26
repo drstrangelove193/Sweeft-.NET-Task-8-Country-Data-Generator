@@ -1,0 +1,6 @@
+Name: Western Sahara
+Region: Africa
+Subregion: Northern Africa
+Latlng: 24.5, -13
+Area: 266000
+Population: 510713

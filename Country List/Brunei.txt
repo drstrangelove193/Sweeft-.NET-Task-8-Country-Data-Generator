@@ -1,0 +1,6 @@
+Name: Brunei
+Region: Asia
+Subregion: South-Eastern Asia
+Latlng: 4.5, 114.66666666
+Area: 5765
+Population: 437483

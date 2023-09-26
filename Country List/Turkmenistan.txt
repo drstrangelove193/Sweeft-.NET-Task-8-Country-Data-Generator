@@ -1,0 +1,6 @@
+Name: Turkmenistan
+Region: Asia
+Subregion: Central Asia
+Latlng: 40, 60
+Area: 488100
+Population: 6031187

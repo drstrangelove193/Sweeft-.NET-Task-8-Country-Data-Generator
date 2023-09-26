@@ -1,0 +1,6 @@
+Name: Malawi
+Region: Africa
+Subregion: Eastern Africa
+Latlng: -13.5, 34
+Area: 118484
+Population: 19129955

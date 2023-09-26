@@ -1,0 +1,6 @@
+Name: Comoros
+Region: Africa
+Subregion: Eastern Africa
+Latlng: -12.16666666, 44.25
+Area: 1862
+Population: 869595

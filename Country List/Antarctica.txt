@@ -1,0 +1,6 @@
+Name: Antarctica
+Region: Antarctic
+Subregion: 
+Latlng: -90, 0
+Area: 14000000
+Population: 1000

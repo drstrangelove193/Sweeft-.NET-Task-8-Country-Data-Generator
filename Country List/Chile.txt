@@ -1,0 +1,6 @@
+Name: Chile
+Region: Americas
+Subregion: South America
+Latlng: -30, -71
+Area: 756102
+Population: 19116209

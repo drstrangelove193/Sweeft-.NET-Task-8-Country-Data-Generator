@@ -1,0 +1,6 @@
+Name: Tokelau
+Region: Oceania
+Subregion: Polynesia
+Latlng: -9, -172
+Area: 12
+Population: 1411

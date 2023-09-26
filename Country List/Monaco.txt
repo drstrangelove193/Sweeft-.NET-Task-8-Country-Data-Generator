@@ -1,0 +1,6 @@
+Name: Monaco
+Region: Europe
+Subregion: Western Europe
+Latlng: 43.73333333, 7.4
+Area: 2.02
+Population: 39244

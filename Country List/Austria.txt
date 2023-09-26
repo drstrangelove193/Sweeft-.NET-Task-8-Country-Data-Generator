@@ -1,0 +1,6 @@
+Name: Austria
+Region: Europe
+Subregion: Central Europe
+Latlng: 47.33333333, 13.33333333
+Area: 83871
+Population: 8917205

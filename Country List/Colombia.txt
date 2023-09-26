@@ -1,0 +1,6 @@
+Name: Colombia
+Region: Americas
+Subregion: South America
+Latlng: 4, -72
+Area: 1141748
+Population: 50882884

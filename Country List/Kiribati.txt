@@ -1,0 +1,6 @@
+Name: Kiribati
+Region: Oceania
+Subregion: Micronesia
+Latlng: 1.41666666, 173
+Area: 811
+Population: 119446

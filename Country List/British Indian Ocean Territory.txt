@@ -1,0 +1,6 @@
+Name: British Indian Ocean Territory
+Region: Africa
+Subregion: Eastern Africa
+Latlng: -6, 71.5
+Area: 60
+Population: 3000

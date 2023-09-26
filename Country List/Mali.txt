@@ -1,0 +1,6 @@
+Name: Mali
+Region: Africa
+Subregion: Western Africa
+Latlng: 17, -4
+Area: 1240192
+Population: 20250834

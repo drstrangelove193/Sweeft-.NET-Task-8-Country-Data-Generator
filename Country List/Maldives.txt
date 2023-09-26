@@ -1,0 +1,6 @@
+Name: Maldives
+Region: Asia
+Subregion: Southern Asia
+Latlng: 3.25, 73
+Area: 300
+Population: 540542

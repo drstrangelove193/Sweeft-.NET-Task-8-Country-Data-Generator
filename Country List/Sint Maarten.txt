@@ -1,0 +1,6 @@
+Name: Sint Maarten
+Region: Americas
+Subregion: Caribbean
+Latlng: 18.033333, -63.05
+Area: 34
+Population: 40812

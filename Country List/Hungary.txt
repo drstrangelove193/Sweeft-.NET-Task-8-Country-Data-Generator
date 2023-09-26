@@ -1,0 +1,6 @@
+Name: Hungary
+Region: Europe
+Subregion: Central Europe
+Latlng: 47, 20
+Area: 93028
+Population: 9749763

@@ -1,0 +1,6 @@
+Name: Eritrea
+Region: Africa
+Subregion: Eastern Africa
+Latlng: 15, 39
+Area: 117600
+Population: 5352000

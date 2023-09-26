@@ -1,0 +1,6 @@
+Name: Saint Kitts and Nevis
+Region: Americas
+Subregion: Caribbean
+Latlng: 17.33333333, -62.75
+Area: 261
+Population: 53192

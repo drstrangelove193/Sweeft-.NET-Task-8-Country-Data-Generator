@@ -1,0 +1,6 @@
+Name: Finland
+Region: Europe
+Subregion: Northern Europe
+Latlng: 64, 26
+Area: 338424
+Population: 5530719

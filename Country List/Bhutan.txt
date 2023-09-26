@@ -1,0 +1,6 @@
+Name: Bhutan
+Region: Asia
+Subregion: Southern Asia
+Latlng: 27.5, 90.5
+Area: 38394
+Population: 771612

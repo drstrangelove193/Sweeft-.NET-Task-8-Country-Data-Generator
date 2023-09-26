@@ -1,0 +1,6 @@
+Name: Uzbekistan
+Region: Asia
+Subregion: Central Asia
+Latlng: 41, 64
+Area: 447400
+Population: 34232050

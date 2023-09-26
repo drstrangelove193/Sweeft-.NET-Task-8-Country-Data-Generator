@@ -1,0 +1,6 @@
+Name: Grenada
+Region: Americas
+Subregion: Caribbean
+Latlng: 12.11666666, -61.66666666
+Area: 344
+Population: 112519

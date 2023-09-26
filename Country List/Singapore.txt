@@ -1,0 +1,6 @@
+Name: Singapore
+Region: Asia
+Subregion: South-Eastern Asia
+Latlng: 1.36666666, 103.8
+Area: 710
+Population: 5685807

@@ -1,0 +1,6 @@
+Name: Vatican City
+Region: Europe
+Subregion: Southern Europe
+Latlng: 41.9, 12.45
+Area: 0.44
+Population: 451

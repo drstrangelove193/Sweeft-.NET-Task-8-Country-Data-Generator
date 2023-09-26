@@ -1,0 +1,6 @@
+Name: Bulgaria
+Region: Europe
+Subregion: Southeast Europe
+Latlng: 43, 25
+Area: 110879
+Population: 6927288

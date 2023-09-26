@@ -1,0 +1,6 @@
+Name: North Macedonia
+Region: Europe
+Subregion: Southeast Europe
+Latlng: 41.83333333, 22
+Area: 25713
+Population: 2077132

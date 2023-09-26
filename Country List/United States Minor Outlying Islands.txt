@@ -1,0 +1,6 @@
+Name: United States Minor Outlying Islands
+Region: Americas
+Subregion: North America
+Latlng: 19.3, 166.633333
+Area: 34.2
+Population: 300

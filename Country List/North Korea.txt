@@ -1,0 +1,6 @@
+Name: North Korea
+Region: Asia
+Subregion: Eastern Asia
+Latlng: 40, 127
+Area: 120538
+Population: 25778815

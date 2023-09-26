@@ -1,0 +1,6 @@
+Name: Zimbabwe
+Region: Africa
+Subregion: Southern Africa
+Latlng: -20, 30
+Area: 390757
+Population: 14862927

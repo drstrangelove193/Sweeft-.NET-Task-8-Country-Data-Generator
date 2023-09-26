@@ -1,0 +1,6 @@
+Name: Wallis and Futuna
+Region: Oceania
+Subregion: Polynesia
+Latlng: -13.3, -176.2
+Area: 142
+Population: 11750

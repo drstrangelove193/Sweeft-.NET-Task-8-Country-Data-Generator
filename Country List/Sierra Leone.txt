@@ -1,0 +1,6 @@
+Name: Sierra Leone
+Region: Africa
+Subregion: Western Africa
+Latlng: 8.5, -11.5
+Area: 71740
+Population: 7976985

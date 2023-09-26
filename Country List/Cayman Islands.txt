@@ -1,0 +1,6 @@
+Name: Cayman Islands
+Region: Americas
+Subregion: Caribbean
+Latlng: 19.3133, -81.2546
+Area: 264
+Population: 65720

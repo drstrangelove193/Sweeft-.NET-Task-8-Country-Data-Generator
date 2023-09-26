@@ -1,0 +1,6 @@
+Name: Solomon Islands
+Region: Oceania
+Subregion: Melanesia
+Latlng: -8, 159
+Area: 28896
+Population: 686878

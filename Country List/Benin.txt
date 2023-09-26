@@ -1,0 +1,6 @@
+Name: Benin
+Region: Africa
+Subregion: Western Africa
+Latlng: 9.5, 2.25
+Area: 112622
+Population: 12123198

@@ -1,0 +1,6 @@
+Name: Micronesia
+Region: Oceania
+Subregion: Micronesia
+Latlng: 6.91666666, 158.25
+Area: 702
+Population: 115021

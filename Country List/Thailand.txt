@@ -1,0 +1,6 @@
+Name: Thailand
+Region: Asia
+Subregion: South-Eastern Asia
+Latlng: 15, 100
+Area: 513120
+Population: 69799978

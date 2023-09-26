@@ -1,0 +1,6 @@
+Name: Andorra
+Region: Europe
+Subregion: Southern Europe
+Latlng: 42.5, 1.5
+Area: 468
+Population: 77265

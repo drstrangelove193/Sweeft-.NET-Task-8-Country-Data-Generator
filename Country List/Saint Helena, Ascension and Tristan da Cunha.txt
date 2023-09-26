@@ -1,0 +1,6 @@
+Name: Saint Helena, Ascension and Tristan da Cunha
+Region: Africa
+Subregion: Western Africa
+Latlng: -15.95, -5.72
+Area: 394
+Population: 53192

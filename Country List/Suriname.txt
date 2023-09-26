@@ -1,0 +1,6 @@
+Name: Suriname
+Region: Americas
+Subregion: South America
+Latlng: 4, -56
+Area: 163820
+Population: 586634

@@ -1,0 +1,6 @@
+Name: South Korea
+Region: Asia
+Subregion: Eastern Asia
+Latlng: 37, 127.5
+Area: 100210
+Population: 51780579

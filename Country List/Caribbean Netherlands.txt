@@ -1,0 +1,6 @@
+Name: Caribbean Netherlands
+Region: Americas
+Subregion: Caribbean
+Latlng: 12.18, -68.25
+Area: 328
+Population: 25987

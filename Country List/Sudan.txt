@@ -1,0 +1,6 @@
+Name: Sudan
+Region: Africa
+Subregion: Northern Africa
+Latlng: 15, 30
+Area: 1886068
+Population: 43849269

@@ -1,0 +1,6 @@
+Name: Iraq
+Region: Asia
+Subregion: Western Asia
+Latlng: 33, 44
+Area: 438317
+Population: 40222503

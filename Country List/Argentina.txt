@@ -1,0 +1,6 @@
+Name: Argentina
+Region: Americas
+Subregion: South America
+Latlng: -34, -64
+Area: 2780400
+Population: 45376763

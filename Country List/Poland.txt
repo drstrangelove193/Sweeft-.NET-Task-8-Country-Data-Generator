@@ -1,0 +1,6 @@
+Name: Poland
+Region: Europe
+Subregion: Central Europe
+Latlng: 52, 20
+Area: 312679
+Population: 37950802

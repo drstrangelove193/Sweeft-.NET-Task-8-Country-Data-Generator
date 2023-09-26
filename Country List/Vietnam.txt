@@ -1,0 +1,6 @@
+Name: Vietnam
+Region: Asia
+Subregion: South-Eastern Asia
+Latlng: 16.16666666, 107.83333333
+Area: 331212
+Population: 97338583

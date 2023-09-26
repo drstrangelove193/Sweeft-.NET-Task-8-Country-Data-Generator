@@ -1,0 +1,6 @@
+Name: Montserrat
+Region: Americas
+Subregion: Caribbean
+Latlng: 16.75, -62.2
+Area: 102
+Population: 4922

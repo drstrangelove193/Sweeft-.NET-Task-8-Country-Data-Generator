@@ -1,0 +1,6 @@
+Name: Seychelles
+Region: Africa
+Subregion: Eastern Africa
+Latlng: -4.58333333, 55.66666666
+Area: 452
+Population: 98462

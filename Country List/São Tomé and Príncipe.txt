@@ -1,0 +1,6 @@
+Name: São Tomé and Príncipe
+Region: Africa
+Subregion: Middle Africa
+Latlng: 1, 7
+Area: 964
+Population: 219161

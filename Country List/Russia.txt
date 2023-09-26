@@ -1,0 +1,6 @@
+Name: Russia
+Region: Europe
+Subregion: Eastern Europe
+Latlng: 60, 100
+Area: 17098242
+Population: 144104080

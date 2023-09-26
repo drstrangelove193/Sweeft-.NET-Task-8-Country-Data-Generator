@@ -1,0 +1,6 @@
+Name: Portugal
+Region: Europe
+Subregion: Southern Europe
+Latlng: 39.5, -8
+Area: 92090
+Population: 10305564

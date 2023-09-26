@@ -1,0 +1,6 @@
+Name: Anguilla
+Region: Americas
+Subregion: Caribbean
+Latlng: 18.25, -63.16666666
+Area: 91
+Population: 13452

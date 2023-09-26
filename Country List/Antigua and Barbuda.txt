@@ -1,0 +1,6 @@
+Name: Antigua and Barbuda
+Region: Americas
+Subregion: Caribbean
+Latlng: 17.05, -61.8
+Area: 442
+Population: 97928

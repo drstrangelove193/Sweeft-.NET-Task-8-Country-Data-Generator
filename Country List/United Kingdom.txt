@@ -1,0 +1,6 @@
+Name: United Kingdom
+Region: Europe
+Subregion: Northern Europe
+Latlng: 54, -2
+Area: 242900
+Population: 67215293

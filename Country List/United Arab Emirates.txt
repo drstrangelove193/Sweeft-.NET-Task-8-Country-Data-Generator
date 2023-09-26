@@ -1,0 +1,6 @@
+Name: United Arab Emirates
+Region: Asia
+Subregion: Western Asia
+Latlng: 24, 54
+Area: 83600
+Population: 9890400

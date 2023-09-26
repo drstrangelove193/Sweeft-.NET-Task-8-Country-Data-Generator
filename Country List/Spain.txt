@@ -1,0 +1,6 @@
+Name: Spain
+Region: Europe
+Subregion: Southern Europe
+Latlng: 40, -4
+Area: 505992
+Population: 47351567

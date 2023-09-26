@@ -1,0 +1,6 @@
+Name: Slovakia
+Region: Europe
+Subregion: Central Europe
+Latlng: 48.66666666, 19.5
+Area: 49037
+Population: 5458827

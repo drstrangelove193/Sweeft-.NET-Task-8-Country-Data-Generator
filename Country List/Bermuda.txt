@@ -1,0 +1,6 @@
+Name: Bermuda
+Region: Americas
+Subregion: North America
+Latlng: 32.33333333, -64.75
+Area: 54
+Population: 63903

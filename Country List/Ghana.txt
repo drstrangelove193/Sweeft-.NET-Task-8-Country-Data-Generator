@@ -1,0 +1,6 @@
+Name: Ghana
+Region: Africa
+Subregion: Western Africa
+Latlng: 8, -2
+Area: 238533
+Population: 31072945

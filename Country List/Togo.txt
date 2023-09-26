@@ -1,0 +1,6 @@
+Name: Togo
+Region: Africa
+Subregion: Western Africa
+Latlng: 8, 1.16666666
+Area: 56785
+Population: 8278737

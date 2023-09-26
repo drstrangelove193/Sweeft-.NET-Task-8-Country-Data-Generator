@@ -1,0 +1,6 @@
+Name: Guinea
+Region: Africa
+Subregion: Western Africa
+Latlng: 11, -10
+Area: 245857
+Population: 13132792

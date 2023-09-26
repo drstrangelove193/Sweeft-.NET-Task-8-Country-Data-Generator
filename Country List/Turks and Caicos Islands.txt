@@ -1,0 +1,6 @@
+Name: Turks and Caicos Islands
+Region: Americas
+Subregion: Caribbean
+Latlng: 21.75, -71.58333333
+Area: 948
+Population: 38718

@@ -1,0 +1,6 @@
+Name: Lesotho
+Region: Africa
+Subregion: Southern Africa
+Latlng: -29.5, 28.5
+Area: 30355
+Population: 2142252

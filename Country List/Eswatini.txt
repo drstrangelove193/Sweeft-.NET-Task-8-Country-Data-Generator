@@ -1,0 +1,6 @@
+Name: Eswatini
+Region: Africa
+Subregion: Southern Africa
+Latlng: -26.5, 31.5
+Area: 17364
+Population: 1160164

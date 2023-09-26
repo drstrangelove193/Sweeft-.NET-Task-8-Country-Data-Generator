@@ -1,0 +1,6 @@
+Name: Guyana
+Region: Americas
+Subregion: South America
+Latlng: 5, -59
+Area: 214969
+Population: 786559

@@ -1,0 +1,6 @@
+Name: Switzerland
+Region: Europe
+Subregion: Western Europe
+Latlng: 47, 8
+Area: 41284
+Population: 8654622

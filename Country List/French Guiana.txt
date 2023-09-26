@@ -1,0 +1,6 @@
+Name: French Guiana
+Region: Americas
+Subregion: South America
+Latlng: 4, -53
+Area: 83534
+Population: 254541

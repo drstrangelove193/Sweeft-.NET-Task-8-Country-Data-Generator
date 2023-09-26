@@ -1,0 +1,6 @@
+Name: Palau
+Region: Oceania
+Subregion: Micronesia
+Latlng: 7.5, 134.5
+Area: 459
+Population: 18092

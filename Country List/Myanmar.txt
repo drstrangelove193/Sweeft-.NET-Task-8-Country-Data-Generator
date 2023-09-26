@@ -1,0 +1,6 @@
+Name: Myanmar
+Region: Asia
+Subregion: South-Eastern Asia
+Latlng: 22, 98
+Area: 676578
+Population: 54409794

@@ -1,0 +1,6 @@
+Name: Chad
+Region: Africa
+Subregion: Middle Africa
+Latlng: 15, 19
+Area: 1284000
+Population: 16425859

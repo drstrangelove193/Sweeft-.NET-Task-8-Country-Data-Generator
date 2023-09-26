@@ -1,0 +1,6 @@
+Name: Tunisia
+Region: Africa
+Subregion: Northern Africa
+Latlng: 34, 9
+Area: 163610
+Population: 11818618

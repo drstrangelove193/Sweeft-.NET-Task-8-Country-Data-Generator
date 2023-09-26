@@ -1,0 +1,6 @@
+Name: Cape Verde
+Region: Africa
+Subregion: Western Africa
+Latlng: 16.5388, 23.0418
+Area: 4033
+Population: 555988

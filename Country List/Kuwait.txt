@@ -1,0 +1,6 @@
+Name: Kuwait
+Region: Asia
+Subregion: Western Asia
+Latlng: 29.5, 45.75
+Area: 17818
+Population: 4270563

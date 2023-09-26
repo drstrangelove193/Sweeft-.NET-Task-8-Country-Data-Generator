@@ -1,0 +1,6 @@
+Name: South Georgia
+Region: Antarctic
+Subregion: 
+Latlng: -54.5, -37
+Area: 3903
+Population: 30

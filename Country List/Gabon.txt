@@ -1,0 +1,6 @@
+Name: Gabon
+Region: Africa
+Subregion: Middle Africa
+Latlng: -1, 11.75
+Area: 267668
+Population: 2225728

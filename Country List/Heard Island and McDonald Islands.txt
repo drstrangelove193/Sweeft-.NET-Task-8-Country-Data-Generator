@@ -1,0 +1,6 @@
+Name: Heard Island and McDonald Islands
+Region: Antarctic
+Subregion: 
+Latlng: 53.0818, 73.5042
+Area: 412
+Population: 0

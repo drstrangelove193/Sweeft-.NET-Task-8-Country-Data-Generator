@@ -1,0 +1,6 @@
+Name: Iceland
+Region: Europe
+Subregion: Northern Europe
+Latlng: 65, -18
+Area: 103000
+Population: 366425

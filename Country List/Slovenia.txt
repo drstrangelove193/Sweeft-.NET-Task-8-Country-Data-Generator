@@ -1,0 +1,6 @@
+Name: Slovenia
+Region: Europe
+Subregion: Central Europe
+Latlng: 46.11666666, 14.81666666
+Area: 20273
+Population: 2100126

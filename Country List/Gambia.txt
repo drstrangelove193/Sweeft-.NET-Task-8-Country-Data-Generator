@@ -1,0 +1,6 @@
+Name: Gambia
+Region: Africa
+Subregion: Western Africa
+Latlng: 13.46666666, -16.56666666
+Area: 10689
+Population: 2416664
